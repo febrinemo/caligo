@@ -1,1 +1,1 @@
-worker: python3 nemobot.py
+worker: python -m caligo
